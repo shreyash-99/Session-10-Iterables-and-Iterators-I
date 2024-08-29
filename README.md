@@ -8,4 +8,4 @@ To convert the polygon sequence into an iterable.
 
 ### Testing 
 1. [github link](assign.ipynb)
-2. [colab link]{https://colab.research.google.com/drive/1HGJEIy-O8XVBiVALkPfgLacSY1BVKtB2?usp=sharing}
+2. [colab link](https://colab.research.google.com/drive/1HGJEIy-O8XVBiVALkPfgLacSY1BVKtB2?usp=sharing)
