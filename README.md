@@ -6,6 +6,6 @@ To convert the polygon sequence into an iterable.
 2. create a PolygonIterator class inside it which defines iter and next functions inside to the next element in the polygons sequence.
 3. Stop Iteration error is raised when the iterator has done iterating over all the elements in the polygons list.
 
-### Testing 
-1. [github link](assign.ipynb)
+### Testing (python notebook link)
+1. [github notebook link](assign.ipynb)
 2. [colab link](https://colab.research.google.com/drive/1HGJEIy-O8XVBiVALkPfgLacSY1BVKtB2?usp=sharing)
